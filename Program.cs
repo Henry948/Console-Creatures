@@ -12,6 +12,9 @@ namespace ConsoleCreatures
       Console.WriteLine(" .-.");    
       Console.WriteLine("(o o)");
       Console.WriteLine("| O |");
+      Console.WriteLine("|   |");
+      Console.WriteLine("'~~~'");
+      Console.WriteLine("This is Jimmy the ghost");
      }
   }
 }
